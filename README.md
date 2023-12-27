@@ -69,6 +69,7 @@ OPTIONS
         <td>
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" title="Docker" alt="Docker" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/github-logo.svg" width="36" height="36" title="Github and GitHub Actions" alt="GitHub and Github Actions" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/datadog-logo.svg" width="36" height="36" title="Datadog" alt="Datadog" />
         </td>
     </tr>
 </table>
