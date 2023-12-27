@@ -13,8 +13,14 @@ Full stack developer 👨‍💻
 $ echo $LOCATION
 Lille, France 🥐
 
+$ echo $LANGUAGES
+French, English 
+
 $ echo $SKILLS
 Java, NodeJS, Angular, React, JavaScript, TypeScript, HTML5, CSS3, Docker
+
+$ echo $LEARNING
+Kubernetes, Google Cloud Platform, Firebase
 
 $ man lucasmacori
 lucasmacori(1)                   General Commands Manual                   lucasmacori(1)
