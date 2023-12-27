@@ -42,16 +42,41 @@ OPTIONS
 ```
 
 ## Skills
+<table>
+    <tr>
+        <th>Languages & environments</th>
+        <th>Frameworks</th>
+        <th>Database</th>
+        <th>Deployment CI/CD</th>
+    </tr>
+    <tr>
+        <td align="left">
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" alt="Java" />
+        <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" alt="Nodejs" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" alt="JavaScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" alt="TypeScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" alt="CSS3" />
+        </td>
+        <td align="left">
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" alt="Angular" />
+    <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" alt="React" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/psql-logo.svg" width="36" height="36" alt="PostgreSQL" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/mongodb-logo.svg" width="36" height="36" alt="MongoDB" />
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" alt="Docker" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/github-logo.svg" width="36" height="36" alt="GitHub and Github Actions" />
+        </td>
+    </tr>
+</table>
 <p align="left">
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" alt="Nodejs" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" alt="Angular" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" alt="Docker" />
+
+
+
+
 </p>
 
 <!-- todo add the latest articles -->
