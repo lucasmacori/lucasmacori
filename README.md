@@ -18,11 +18,20 @@ Lille, France 🥐
 $ echo $LANGUAGES
 French, English 
 
-$ echo $SKILLS
-Java, NodeJS, Angular, React, JavaScript, TypeScript, HTML5, CSS3, Docker
+$ echo $SKILLS | grep Languages
+Languages & environments: Java, NodeJS, JavaScript, TypeScript, HTML5, CSS3
 
-$ echo $LEARNING
-Kubernetes, Google Cloud Platform, Firebase
+$ echo $SKILLS | grep Frameworks
+Frameworks: Spring, Angular, React
+
+$ echo $SKILLS | grep Database
+Database: PostgreSQL, MongoDB
+
+$ echo $SKILLS | grep Deployment
+Deployment (CI/CD): Docker, GitHub Actions, Datadog
+
+$ echo $SKILLS | grep Learning
+Learning: Kubernetes, Google Cloud Platform, Firebase
 
 $ man lucasmacori
 lucasmacori(1)                   General Commands Manual                   lucasmacori(1)
@@ -49,7 +58,7 @@ OPTIONS
         <th>Languages & environments</th>
         <th>Frameworks</th>
         <th>Database</th>
-        <th>Deployment CI/CD</th>
+        <th>Deployment (CI/CD)</th>
     </tr>
     <tr>
         <td align="left">
@@ -61,6 +70,7 @@ OPTIONS
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" title="CSS3" alt="CSS3" />
         </td>
         <td align="left">
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/spring-logo.svg" width="36" height="36" title="Spring" alt="Spring" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" title="Angular" alt="Angular" />
     <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" title="React" alt="React" />
         </td>
