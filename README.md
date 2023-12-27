@@ -1,3 +1,5 @@
+# Hey there, stranger
+
 <img align="right" height="200" src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/computer.gif" />
 
 ```bash
@@ -41,7 +43,7 @@ OPTIONS
         -D {do-the-dishes}  (Deprecated)
 ```
 
-## Skills
+# Skills
 <table>
     <tr>
         <th>Languages & environments</th>
@@ -73,11 +75,5 @@ OPTIONS
         </td>
     </tr>
 </table>
-<p align="left">
-
-
-
-
-</p>
 
 <!-- todo add the latest articles -->
