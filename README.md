@@ -51,24 +51,24 @@ OPTIONS
     </tr>
     <tr>
         <td align="left">
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" alt="Java" />
-        <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" alt="Nodejs" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" alt="JavaScript" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" alt="TypeScript" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" alt="HTML5" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" alt="CSS3" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" title="Java" alt="Java" />
+        <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" title="Node.js" alt="Nodejs" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" title="TypeScript" alt="TypeScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" title="HTML5" alt="HTML5" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" title="CSS3" alt="CSS3" />
         </td>
         <td align="left">
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" alt="Angular" />
-    <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" alt="React" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" title="Angular" alt="Angular" />
+    <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" title="React" alt="React" />
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/psql-logo.svg" width="36" height="36" alt="PostgreSQL" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/mongodb-logo.svg" width="36" height="36" alt="MongoDB" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/psql-logo.svg" width="36" height="36" title="PostgreSQL" alt="PostgreSQL" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/mongodb-logo.svg" width="36" height="36" title="MongoDB" alt="MongoDB" />
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" alt="Docker" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/github-logo.svg" width="36" height="36" alt="GitHub and Github Actions" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" title="Docker" alt="Docker" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/github-logo.svg" width="36" height="36" title="Github and GitHub Actions" alt="GitHub and Github Actions" />
         </td>
     </tr>
 </table>
