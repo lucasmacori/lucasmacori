@@ -1,16 +1,47 @@
-### Hi there 👋
+<img align="right" height="200" src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/computer.gif" />
 
-<!--
-**lucasmacori/lucasmacori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ echo $NAME
+Lucas MACORI
 
-Here are some ideas to get you started:
+$ echo $EMAIL
+lucas.macori@gmail.com ✉️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ echo $JOB
+Full stack developer 👨‍💻
+
+$ echo $LOCATION
+Lille, France 🥐
+
+$ echo $SKILLS
+Java, NodeJS, Angular, React, JavaScript, TypeScript, HTML5, CSS3, Docker
+
+$ man lucasmacori
+lucasmacori(1)                   General Commands Manual                   lucasmacori(1)
+
+NAME
+        lucasmacori
+
+OPTIONS
+
+        -c {code}           Code an awesome app
+
+        -d {drink-coffee}   Drink an obviously overpriced coffee and call it "breakfast"
+
+        -n {nap}            Rest your eyes just a tiny bit
+
+        -p {play-bass}      Slap the bass guitar
+
+        -D {do-the-dishes}  (Deprecated)
+```
+<p align="left">
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" alt="Java" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" alt="Nodejs" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" alt="Angular" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" alt="React" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" alt="Docker" />
+</p>
