@@ -40,6 +40,8 @@ OPTIONS
 
         -D {do-the-dishes}  (Deprecated)
 ```
+
+## Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" alt="Java" />
 <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" alt="Nodejs" />
@@ -51,3 +53,5 @@ OPTIONS
 <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/docker-logo.svg" width="36" height="36" alt="Docker" />
 </p>
+
+<!-- todo add the latest articles -->
