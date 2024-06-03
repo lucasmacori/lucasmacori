@@ -13,16 +13,16 @@ $ echo $JOB
 Full stack developer 👨‍💻
 
 $ echo $LOCATION
-Lille, France 🥐
+Lille 🍺, France 🥐
 
 $ echo $LANGUAGES
 French, English 
 
 $ echo $SKILLS | grep Languages
-Languages & environments: Java, NodeJS, JavaScript, TypeScript, HTML5, CSS3
+Languages & environments: Java, NodeJS, TypeScript, JavaScript, HTML5, CSS3
 
 $ echo $SKILLS | grep Frameworks
-Frameworks: Spring, Angular, React
+Frameworks: Spring, React, NextJS, Angular
 
 $ echo $SKILLS | grep Database
 Database: PostgreSQL, MongoDB
@@ -63,16 +63,17 @@ OPTIONS
     <tr>
         <td align="left">
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/java-logo.svg" width="36" height="36" title="Java" alt="Java" />
-        <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" title="Node.js" alt="Nodejs" />
-            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nodejs-logo.svg" width="36" height="36" title="Node.js" alt="Nodejs" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/ts-logo.svg" width="36" height="36" title="TypeScript" alt="TypeScript" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/js-logo.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/html5-logo.svg" width="36" height="36" title="HTML5" alt="HTML5" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/css3-logo.svg" width="36" height="36" title="CSS3" alt="CSS3" />
         </td>
         <td align="left">
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/spring-logo.svg" width="36" height="36" title="Spring" alt="Spring" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" title="React" alt="React" />
+            <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/nextjs-logo.svg" width="36" height="36" title="NextJS" alt="NextJS" />
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/angular-logo.svg" width="36" height="36" title="Angular" alt="Angular" />
-    <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/react-logo.svg" width="36" height="36" title="React" alt="React" />
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/lucasmacori/lucasmacori/main/assets/psql-logo.svg" width="36" height="36" title="PostgreSQL" alt="PostgreSQL" />
