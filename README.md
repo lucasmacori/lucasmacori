@@ -87,4 +87,31 @@ OPTIONS
     </tr>
 </table>
 
+# Articles
+<table>
+    <tr>
+        <th>Article</th>
+        <th>Language</th>
+        <th>Platform</th>
+    </tr>
+    <tr>
+        <tr>
+                <td>
+                        <a href="https://www.sfeir.dev/mobile/decouverte-de-lynx-la-nouvelle-alternative-a-react-native/">
+                                Découverte de Lynx, la nouvelle alternative à React Native
+                        </a>
+                </td>
+                <td>🇫🇷 French</td>
+                <td>sfeir.dev</td>
+            </tr>
+        <td>
+                <a href="https://www.sfeir.dev/front/comment-react-19-va-simplifier-votre-vie-de-developpeur-front-end/">
+                        Comment React 19 va simplifier votre vie de développeur Front-end
+                </a>
+        </td>
+        <td>🇫🇷 French</td>
+        <td>sfeir.dev</td>
+    </tr>
+</table>
+
 <!-- todo add the latest articles -->
