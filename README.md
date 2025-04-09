@@ -95,6 +95,15 @@ OPTIONS
         <th>Platform</th>
     </tr>
     <tr>
+            <tr>
+                <td>
+                        <a href="https://www.sfeir.dev/front/vibe-coding-le-developpement-les-lignes-de-code-en-moins/">
+                                Vibe coding : le développement, les lignes de code en moins
+                        </a>
+                </td>
+                <td>🇫🇷 French</td>
+                <td>sfeir.dev</td>
+            </tr>
         <tr>
                 <td>
                         <a href="https://www.sfeir.dev/mobile/decouverte-de-lynx-la-nouvelle-alternative-a-react-native/">
